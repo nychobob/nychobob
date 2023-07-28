@@ -10,9 +10,6 @@ I am a software engineering student with experience in software and web developm
 <img src="https://github.com/nychobob/nychobob/assets/47119027/c7371880-9fce-4d34-9ea3-f082516662a5" width="50" height="50"/>
 <img src="https://github.com/nychobob/nychobob/assets/47119027/0b1116d0-ef81-49d4-b661-269f7cd91871" width="50" height="50"/>
 
-### CONTACT
-📩 
-
 
 
 
