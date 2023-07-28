@@ -1,4 +1,4 @@
-# About me 🙋‍♂️
+## About me 🙋‍♂️
 I am a software engineering student with experience in software and web development.
 
 ### Technical skills 💻
