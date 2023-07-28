@@ -10,6 +10,6 @@
 <img src="https://github.com/nychobob/nychobob/assets/47119027/c7371880-9fce-4d34-9ea3-f082516662a5" width="40" height="40"/>
 
 ## Contact
-<img href="mailto:maximeouellette00@gmail.com" style="vertical-align:middle" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47119027/256918068-15465e49-d011-4906-a4cf-3df072549d0b.png" width="2%" height="2%"/>
+📩 maximeouellette00@gmail.com
 
 
